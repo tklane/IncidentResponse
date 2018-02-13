@@ -13,3 +13,5 @@ The next set of tools you will need to install is a Jupyter Kernel for PowerShel
 
 https://github.com/vors/jupyter-powershell
 
+We will utilzie thi kernel to interact with Windows command line and PowerShell in Jupyter. 
+
