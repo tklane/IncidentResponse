@@ -6,12 +6,12 @@ For these labs we will be using Jupyter notebooks which allow us to interactivel
 
 https://www.anaconda.com/download/#windows
 
-Make sure to install Python 2.7. We wil need Python 2.7 for labs further along in this class that use Volatility which required this version. Jupyter and several other analysis tools will be installed with this python distribution. Make sure to test your Jupyter installation before moving to the next set. 
+Make sure to install Python 2.7. We wil need Python 2.7 for labs further along in this class that use Volatility which requires this version. Jupyter and several other analysis tools will be installed with this python distribution. Make sure to test your Jupyter installation before moving to the next set. 
 
 ## PowerShell
 The next set of tools you will need to install is a Jupyter Kernel for PowerShell. You can get this kernel and installation instructions here:
 
 https://github.com/vors/jupyter-powershell
 
-We will utilzie thi kernel to interact with Windows command line and PowerShell in Jupyter. 
+We will utilzie this kernel to interact with Windows command line and PowerShell in Jupyter. 
 
